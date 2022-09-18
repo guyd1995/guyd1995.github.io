@@ -2,7 +2,6 @@
 layout: post
 title:  "Analyzing Transformers in Embedding Space - Explained"
 date:   2022-09-18 11:37:06 +0300
-categories: jekyll update
 ---
 In this post, I present the paper **“Analyzing Transformers in Embedding Space”** (2022) by Guy Dar, Mor Geva, Ankit Gupta, and Jonathan Berant. Guy Dar is Me :)
 
