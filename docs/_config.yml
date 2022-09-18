@@ -21,7 +21,7 @@
 title: Guy's Blog
 email: guyd1995@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a researcher. The rest of the description is prone to changes.
+  I am a researcher. Everything else is prone to changes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guy__dar
